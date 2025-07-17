@@ -87,15 +87,4 @@ import asyncio, sys
 if sys.platform == "win32":
     asyncio.set_event_loop_policy(asyncio.WindowsProactorEventLoopPolicy())
 
-📜 License
 
-This project is open-source under the MIT License.
-
-🙌 Credits
-
-Made with ❤️ by [J] for real-time academic scraping automation.
-
-
----
-
-Let me know if you’d like to generate a logo for your dashboard, add search filters (like categories or date), or modularize the scraper into reusable agents. Your GitHub repo's going to look tight and purposeful!
